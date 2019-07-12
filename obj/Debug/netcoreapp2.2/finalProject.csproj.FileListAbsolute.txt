@@ -1,0 +1,11 @@
+/Users/llcoolk/Workspace/ProgrammingC#/finalProject/obj/Debug/netcoreapp2.2/finalProject.csprojAssemblyReference.cache
+/Users/llcoolk/Workspace/ProgrammingC#/finalProject/obj/Debug/netcoreapp2.2/finalProject.csproj.CoreCompileInputs.cache
+/Users/llcoolk/Workspace/ProgrammingC#/finalProject/obj/Debug/netcoreapp2.2/finalProject.AssemblyInfoInputs.cache
+/Users/llcoolk/Workspace/ProgrammingC#/finalProject/obj/Debug/netcoreapp2.2/finalProject.AssemblyInfo.cs
+/Users/llcoolk/Workspace/ProgrammingC#/finalProject/bin/Debug/netcoreapp2.2/finalProject.deps.json
+/Users/llcoolk/Workspace/ProgrammingC#/finalProject/bin/Debug/netcoreapp2.2/finalProject.runtimeconfig.json
+/Users/llcoolk/Workspace/ProgrammingC#/finalProject/bin/Debug/netcoreapp2.2/finalProject.runtimeconfig.dev.json
+/Users/llcoolk/Workspace/ProgrammingC#/finalProject/bin/Debug/netcoreapp2.2/finalProject.dll
+/Users/llcoolk/Workspace/ProgrammingC#/finalProject/bin/Debug/netcoreapp2.2/finalProject.pdb
+/Users/llcoolk/Workspace/ProgrammingC#/finalProject/obj/Debug/netcoreapp2.2/finalProject.dll
+/Users/llcoolk/Workspace/ProgrammingC#/finalProject/obj/Debug/netcoreapp2.2/finalProject.pdb
